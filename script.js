@@ -1,4 +1,4 @@
-// alert("You Can't Do This Nigga!!");
+/*alert("You Can't Do This Nigga!!");
 console.log("1 - 1");
 
 const x = 100;
@@ -16,4 +16,25 @@ console.warn("Warning");
 console.groupEnd("group");
 
 const styles = "padding: 10px; background-color: gray; color: white;";
-console.log("%cHello World", styles);
+console.log("%cHello World", styles)*/
+
+/*let myName = "Jhonny Mark";
+let myNickName = "Equinox";
+
+console.log(myName, myNickName);
+
+let myAge = 20;
+console.log(myAge);
+
+const result = {
+  name: "",
+};
+
+result.name = "mark";
+result.email = "mark@gmail.com";
+
+console.log(result);*/
+
+//Declare multiple values at once
+
+let a, b, c;
