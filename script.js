@@ -14,3 +14,6 @@ console.error("alert");
 console.table({ name: "Jmark", email: "Jmark@gmail.com" });
 console.warn("Warning");
 console.groupEnd("group");
+
+const styles = "padding: 10px; background-color: gray; color: white;";
+console.log("%cHello World", styles);
