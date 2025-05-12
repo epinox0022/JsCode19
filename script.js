@@ -53,3 +53,23 @@ console.log(a, b, c);
 /* 
 Primative Data Types = String, Number, Boolean, Null, Undefined, Symbol, BigInt. Reference Types = Object Literals, Arrays and Functions. Javascript is a dynamically-typed language which means is cant explicity define the types for our variables. Other languages are statically-typed such as C, C++ and java.
 */
+
+/*let amount = "99.5";
+
+// Change string to number
+// amount = parseInt(amount);
+// amount = +amount;
+// amount = Number(amount);
+
+// Change number to string
+// amount = amount.toString();
+// amount = String(amount);
+
+// Change string into decimal
+// amount = parseFloat(amount);
+
+// Change number to boolean
+// amount = Boolean(amount);
+
+console.log(amount);
+*/
