@@ -35,6 +35,21 @@ result.email = "mark@gmail.com";
 
 console.log(result);*/
 
-//Declare multiple values at once
+/* //Declare multiple values at once
 
 let a, b, c;
+
+a = 300;
+b = 300;
+c = 400;
+
+const d = 10;
+e = 20;
+f = 30;
+console.log(d, e, f);
+console.log(a, b, c);
+*/
+
+/* 
+Primative Data Types = String, Number, Boolean, Null, Undefined, Symbol, BigInt. Reference Types = Object Literals, Arrays and Functions. Javascript is a dynamically-typed language which means is cant explicity define the types for our variables. Other languages are statically-typed such as C, C++ and java.
+*/
