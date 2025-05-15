@@ -73,3 +73,12 @@ Primative Data Types = String, Number, Boolean, Null, Undefined, Symbol, BigInt.
 
 console.log(amount);
 */
+
+let x;
+
+x = 5 + 5;
+x = x - 2;
+x = x * 2;
+// x = x / 2;
+// x = x ** 2;
+x = console.log(x);
