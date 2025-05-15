@@ -100,4 +100,14 @@ x = 1;
 // x **= 2;
 // x /= 2;
 // x %= 3;
-x = console.log(x);
+
+// Comparison Operators
+// x = x === "1";
+// x = x === 1;
+// x = x == 1;
+// x = x == "1";
+// x = x != 2;
+// x = x > 0;
+// x = x < 0;
+
+x = console.log(x, typeof x);
