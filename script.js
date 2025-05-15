@@ -75,10 +75,29 @@ console.log(amount);
 */
 
 let x;
+x = 1;
 
-x = 5 + 5;
-x = x - 2;
-x = x * 2;
+// Operators
+// x = 5 + 5;
+// x = x - 2;
+// x = x * 2;
 // x = x / 2;
 // x = x ** 2;
+
+// Concatenation
+// x = "Mark" + " " + "Fernandez";
+
+// Increment
+// x++;
+
+// Decrement
+// x--;
+
+// Assignment Operators
+// x += 5;
+// x -= 5;
+// x *= 2;
+// x **= 2;
+// x /= 2;
+// x %= 3;
 x = console.log(x);
